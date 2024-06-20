@@ -1,0 +1,24 @@
+
+.input-div{
+    display: flex;
+    justify-content: center;
+   align-items: center;
+    margin-left: 10px;
+}
+input{
+    margin: 5px;
+}
+.button-all{
+    display: flex;
+    justify-content: center;
+}
+button{
+    margin-top: 10px;
+    font-size: 30px;
+    width: 60px;
+}
+.anss{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
